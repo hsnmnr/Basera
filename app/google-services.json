@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028951987965",
+    "firebase_url": "https://basera-bd6bc.firebaseio.com",
+    "project_id": "basera-bd6bc",
+    "storage_bucket": "basera-bd6bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028951987965:android:2aec83841294138de29094",
+        "android_client_info": {
+          "package_name": "me.hassanmunir.basera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028951987965-j9hrbsahm8gumitooui2ku2mhu81f6p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.hassanmunir.basera",
+            "certificate_hash": "9f6c0e9306406bf0b3a545f4fd9ade880cd8e65f"
+          }
+        },
+        {
+          "client_id": "1028951987965-borl9vpp064ao5dvhiqeeaeu0fvmptnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIwuq7UNviu_jH70jW43Ey2tE8xUBCijs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028951987965-borl9vpp064ao5dvhiqeeaeu0fvmptnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

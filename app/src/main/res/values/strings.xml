@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Basera</string>
+    <string name="title_home">Home</string>
+    <string name="content_discription">This is an Open Source Image</string>
+    <string name="title_add">Add</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_account">Account</string>
+    <string name="app_title">BASERA</string>
+    <string name="app_subtitle">Home to Home</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">"Don't have an account?" </string>
+    <string name="register"> Register</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="name_hint">Full Name</string>
+    <string name="address_hint">Address</string>
+    <string name="id_hint">CNIC</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search_hint">Search</string>
+    <string name="find">Find</string>
+    <string name="a_place_to_stay">a place to stay</string>
+    <string name="let_s_add_your_place">Let\'s add your \nPlace</string>
+
+</resources>
